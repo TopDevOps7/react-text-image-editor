@@ -1,2 +1,2 @@
-# react-text-image-editor
+# CanvasEditor
 Created with CodeSandbox
